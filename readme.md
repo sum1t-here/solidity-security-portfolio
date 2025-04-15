@@ -20,7 +20,16 @@
 ---
 
 ## 🔍 **My Smart Contract Audits**
-| Project | Description | Report |
-|---------|------------|--------|
+| Publish | Description | Report | Audit Start | Audit End | C | H | M | L | I | G |
+|---------|------------|--------|-------------|------------|---|---|---|---|---|---|
+|  | Handheld Audit (Codehawks) | [Password store](codehawks_audits/password_store/audit_data/report.pdf) | 2025-Mar-2 | 2025-Mar-3 || 2 || 1 | 1 ||
 
-## **Let's Connect**
+## Legend
+| Symbol | Description |
+|--------|-------------|
+| C | Critical (*) |
+| H |	High |
+| M	| Medium |
+| L	| Low |
+| I	| Informational |
+| G	| Gas |
