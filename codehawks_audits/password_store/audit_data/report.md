@@ -1,7 +1,7 @@
 ---
 title: PasswordStore Audit Report
-author: YOUR_NAME_HERE
-date: September 1, 2023
+author: Sumit Mazumdar
+date: April 15, 2023
 header-includes:
   - \usepackage{titling}
   - \usepackage{graphicx}
@@ -16,8 +16,6 @@ header-includes:
     {\Huge\bfseries PasswordStore Initial Audit Report\par}
     \vspace{1cm}
     {\Large Version 0.1\par}
-    \vspace{2cm}
-    {\Large\itshape Cyfrin.io\par}
     \vfill
     {\large \today\par}
 \end{titlepage}
@@ -26,10 +24,10 @@ header-includes:
 
 # PasswordStore Audit Report
 
-Prepared by: YOUR_NAME_HERE
+Prepared by: Sumit Mazumdar
 Lead Auditors: 
 
-- [YOUR_NAME_HERE](enter your URL here)
+- [Sumit Mazumdar](https://x.com/sum1t_here)
 
 Assisting Auditors:
 
@@ -42,7 +40,7 @@ Assisting Auditors:
 
 - [PasswordStore Audit Report](#passwordstore-audit-report)
 - [Table of contents](#table-of-contents)
-- [About YOUR\_NAME\_HERE](#about-your_name_here)
+- [About Sumit Mazumdar](#about-sumit)
 - [Disclaimer](#disclaimer)
 - [Risk Classification](#risk-classification)
 - [Audit Details](#audit-details)
@@ -67,13 +65,14 @@ Assisting Auditors:
 </details>
 </br>
 
-# About YOUR_NAME_HERE
+# About Sumit Mazumdar
 
 <!-- Tell people about you! -->
+I'm a solo Web3 and full-stack developer with a deep interest in blockchain infrastructure, smart contract security, and decentralized application development. I’m passionate about building clean, efficient, and user-friendly products that use blockchain where it truly matters. I learn best by doing—building, breaking, and fixing things along the way.
 
 # Disclaimer
 
-The YOUR_NAME_HERE team makes all effort to find as many vulnerabilities in the code in the given time period, but holds no responsibilities for the the findings provided in this document. A security audit by the team is not an endorsement of the underlying business or product. The audit was time-boxed and the review of the code was solely on the security aspects of the solidity implementation of the contracts.
+I have made every effort to identify potential vulnerabilities in the code within the given time frame. However, I do not take responsibility for the findings presented in this document. This security review is not an endorsement of the underlying business, platform, or product. The audit was time-boxed and focused solely on the security aspects of the Solidity smart contract implementation.
 
 # Risk Classification
 
