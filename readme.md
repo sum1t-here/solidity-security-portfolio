@@ -13,7 +13,7 @@
 ---
 
 ## 🏆 **Security Challenges Completed**
-- ✅ [Ethernaut](https://ethernaut.openzeppelin.com/) – Coming soon
+- ✅ [Ethernaut](https://ethernaut.openzeppelin.com/) – [Ethernaut Solutions](https://github.com/sum1t-here/ethernaut-solutions)
 - ✅ [Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz/) – Coming soon  
 - ✅ [Capture the Ether](https://capturetheether.com/) – Coming soon 
 
